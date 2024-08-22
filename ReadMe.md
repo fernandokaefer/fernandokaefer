@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 ## Olá, eu sou Fernando Kaefer.<br><br>- 🔭 Em busca de estágio<br>- 🌱 Análise e Desenvolvimento de Sistemas - PUCPR<br>- 📩 Contate-me no E-mail: fernando.kaefer03@gmail.com
 
 
