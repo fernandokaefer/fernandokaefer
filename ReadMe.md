@@ -1,4 +1,4 @@
-## Olá, eu sou Fernando Kaefer.<br><br>- 🔭 Em busca de estágio<br>- 🌱 Análise e Desenvolvimento de Sistemas - PUCPR<br>- 📩 E-mail: fernando.kaefer03@gmail.com
+## Olá, eu sou Fernando Kaefer.<br><br>- 🔭 Estagiário de dados na BRF <br>- 🌱 Análise e Desenvolvimento de Sistemas - PUCPR<br>- 📩 E-mail: fernando.kaefer03@gmail.com
 
 
 # 💻 Tech Stack:
